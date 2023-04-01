@@ -6,6 +6,7 @@ import pandas as pd
 import praw
 import os
 from dotenv import load_dotenv
+import asyncpraw
 
 load_dotenv()
 
@@ -15,17 +16,25 @@ USER_AGENT = os.getenv('USER_AGENT')
 USERNAME = os.getenv('REDDIT_USERNAME')
 PASSWORD = os.getenv('PASSWORD')
 
-reddit = praw.Reddit(client_id=CLIENT_ID, client_secret=CLIENT_SECRET, username=USERNAME, password=PASSWORD,
-    user_agent=USER_AGENT)
+reddit = asyncpraw.Reddit(
+    client_id=CLIENT_ID, 
+    client_secret=CLIENT_SECRET, 
+    username=USERNAME, 
+    password=PASSWORD,
+    user_agent=USER_AGENT,
+    check_for_async=False
+)
 
-def create_csv(flair):
+
+async def create_csv_reddit(flair):
     day = datetime.date.today().strftime("%d-%m-%Y")
     filename = flair + "_issues_" + day + ".csv"
 
     posts = []
-    subreddit = reddit.subreddit('HoloNews').search(f'flair:"{flair} Issue"')
+    subreddit = await reddit.subreddit('HoloNews')
+    subreddit = subreddit.search(f'flair:"{flair} Issue"')
 
-    for post in subreddit:
+    async for post in subreddit:
         date = datetime.datetime.fromtimestamp(post.created_utc)
         posts.append([post.title, post.score, post.ups, post.downs, post.upvote_ratio, 
             post.url, post.num_comments, date])
@@ -35,9 +44,7 @@ def create_csv(flair):
     posts['created'] = pd.to_datetime(posts['created'])
     posts = posts.sort_values(by='created', ascending=False)
 
-    posts.to_csv(rf'csv/{filename}', index=False, header=True, encoding='utf-8-sig')
-
-    #print(posts)
+    posts.to_csv(rf'csv/reddit_scrapper/{filename}', index=False, header=True, encoding='utf-8-sig')
 
 
 # TO-DO

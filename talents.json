@@ -1,0 +1,379 @@
+{
+    "talents": [
+        {
+            "name": "Tokino Sora",
+            "id": "UCp6993wxpyDPHUpavwDFqgg",
+            "generation": "JP0"
+        },
+        {
+            "name": "Robocosan",
+            "id": "UCDqI2jOz0weumE8s7paEk6g",
+            "generation": "JP0"
+        },
+        {
+            "name": "Sakura Miko",
+            "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+            "generation": "JP0"
+        },
+        {
+            "name": "Hoshimachi Suisei",
+            "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+            "generation": "JP0"
+        },
+        {
+            "name": "AZKi",
+            "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+            "generation":"JP0"
+        },
+        {
+            "name": "Yozora Mel",
+            "id": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+            "generation": "JP1"
+        },
+        {
+            "name": "Shirakami Fubuki",
+            "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+            "generation": "JP1"
+        },
+        {
+            "name": "Natsuiro Matsuri",
+            "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+            "generation": "JP1"
+        },
+        {
+            "name": "Aki Rosenthal",
+            "id": "UCFTLzh12_nrtzqBPsTCqenA",
+            "generation": "JP1"
+        },
+        {
+            "name": "Akai Haato",
+            "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+            "generation": "JP1"
+        },
+        {
+            "name": "Minato Aqua",
+            "id": "UC1opHUrw8rvnsadT-iGp7Cg",
+            "generation": "JP2"
+        },
+        {
+            "name": "Murasaki Shion",
+            "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
+            "generation": "JP2"
+        },
+        {
+            "name": "Nakiri Ayame",
+            "id": "UC7fk0CB07ly8oSl0aqKkqFg",
+            "generation": "JP2"
+        },
+        {
+            "name": "Yuzuki Choco",
+            "id": "UC1suqwovbL1kzsoaZgFZLKg",
+            "generation": "JP2"
+        },
+        {
+            "name": "Oozora Subaru",
+            "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+            "generation": "JP2"
+        },
+        {
+            "name": "Ookami Mio",
+            "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+            "generation": "Gamers"
+        },
+        {
+            "name": "Nekomata Okayu",
+            "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+            "generation": "Gamers"
+        },
+        {
+            "name": "Inugami Korone",
+            "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+            "generation": "Gamers"
+        },
+        {
+            "name": "Usada Pekora",
+            "id": "UC1DCedRgGHBdm81E1llLhOQ",
+            "generation": "JP3"
+        },
+        {
+            "name": "Shiranui Flare",
+            "id": "UCvInZx9h3jC2JzsIzoOebWg",
+            "generation": "JP3"
+        },
+        {
+            "name": "Shirogane Noel",
+            "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+            "generation": "JP3"
+        },
+        {
+            "name": "Houshou Marine",
+            "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+            "generation": "JP3"
+        },
+        {
+            "name":"Amane Kanata",
+            "id": "UCZlDXzGoo7d44bwdNObFacg",
+            "generation": "JP4"
+        },
+        {
+            "name": "Tsunomaki Watame",
+            "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+            "generation": "JP4"
+        },
+        {
+            "name": "Tokoyami Towa",
+            "id": "UC1uv2Oq6kNxgATlCiez59hw",
+            "generation": "JP4"
+        },
+        {
+            "name": "Himemori Luna",
+            "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+            "generation": "JP4"
+        },
+        {
+            "name": "Yukihana Lamy",
+            "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+            "generation": "JP5"
+        },
+        {
+            "name": "Momosuzu Nene",
+            "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+            "generation": "JP5"
+        },
+        {
+            "name": "Shishiro Botan",
+            "id": "UCUKD-uaobj9jiqB-VXt71mA",
+            "generation": "JP5"
+        },
+        {
+            "name": "Omaru Polka",
+            "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+            "generation": "JP5"
+        },
+        {
+            "name": "Laplus Darkness",
+            "id": "UCENwRMx5Yh42zWpzURebzTw",
+            "generation": "JP6"
+        },
+        {
+            "name": "Takane Lui",
+            "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+            "generation": "JP6"
+        },
+        {
+            "name": "Hakui Koyori",
+            "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+            "generation": "JP6"
+        },
+        {
+            "name": "Sakamata Chloe",
+            "id": "UCIBY1ollUsauvVi4hW4cumw",
+            "generation": "JP6"
+        },
+        {
+            "name": "Kazama Iroha",
+            "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+            "generation": "JP6"
+        },
+        {
+            "name": "Regis Altare",
+            "id": "UCyxtGMdWlURZ30WSnEjDOQw",
+            "generation": "holostars EN Tempus"
+        },
+        {
+            "name": "Magni Dezmond",
+            "id": "UC7MMNHR-kf9EN1rXiesMTMw",
+            "generation": "holostars EN Tempus"
+        },
+        {
+            "name": "Axel Syrios",
+            "id": "UC2hx0xVkMoHGWijwr_lA01w",
+            "generation": "holostars EN Tempus"
+        },
+        {
+            "name": "Noir Vesper",
+            "id": "UCDRWSO281bIHYVi-OV3iFYA",
+            "generation": "holostars EN Tempus"
+        },
+        {
+            "name": "Gavis Bettel",
+            "id": "UCHP4f7G2dWD4qib7BMatGAw",
+            "generation": "holostars EN Tempus"
+        },
+        {
+            "name": "Machina X Flayon",
+            "id": "UC060r4zABV18vcahAWR1n7w",
+            "generation": "holostars EN Tempus"
+        },
+        {
+            "name": "Banzoin Hakka",
+            "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+            "generation": "holostars EN Tempus"
+        },
+        {
+            "name": "Josuiji Shinri",
+            "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+            "generation": "holostars EN Tempus"
+        },
+        {
+            "name": "Hanasaki Miyabi",
+            "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+            "generation": "holostars JP1"
+        },
+        {
+            "name": "Kanade Izuru",
+            "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+            "generation": "holostars JP1"
+        },
+        {
+            "name": "Arurandeisu",
+            "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+            "generation": "holostars JP1"
+        },
+        {
+            "name": "Rikkaroid",
+            "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+            "generation": "holostars JP1"
+        },
+        {
+            "name": "Astel Leda",
+            "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+            "generation": "holostars JP2"
+        },
+        {
+            "name": "Kishido Temma",
+            "id": "UCGNI4MENvnsymYjKiZwv9eg",
+            "generation": "holostars JP2"
+        },
+        {
+            "name": "Yukoku Roberu",
+            "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+            "generation": "holostars JP2"
+        },
+        {
+            "name": "Kageyama Shien",
+            "id": "UChSvpZYRPh0FvG4SJGSga3g",
+            "generation": "holostars JP3"
+        },
+        {
+            "name": "Aragami Oga",
+            "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+            "generation": "holostars JP3"
+        },
+        {
+            "name": "Yatogami Fuma",
+            "id": "UCc88OV45ICgHbn3ZqLLb52w",
+            "generation": "holostars UPROAR!!!"
+        },
+        {
+            "name": "Utsugi Uyu",
+            "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+            "generation": "holostars UPROAR!!!"
+        },
+        {
+            "name": "Hizaki Gamma",
+            "id": "UCkT1u65YS49ca_LsFwcTakw",
+            "generation": "holostars UPROAR!!!"
+        },
+        {
+            "name": "Minase Rio",
+            "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+            "generation": "holostars UPROAR!!!"
+        },
+        {
+            "name": "Ayunda Risu",
+            "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+            "generation": "ID1"
+        },
+        {
+            "name": "Hoshinova Moona",
+            "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+            "generation": "ID1"
+        },
+        {
+            "name": "Airani Iofifteen",
+            "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+            "generation": "ID1"
+        },
+        {
+            "name": "Kureiji Ollie",
+            "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+            "generation": "ID2"
+        },
+        {
+            "name": "Anya Melfissa",
+            "id": "UC727SQYUvx5pDDGQpTICNWg",
+            "generation": "ID2"
+        },
+        {
+            "name": "Pavolia Reine",
+            "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+            "generation": "ID2"
+        },
+        {
+            "name": "Vestia Zeta",
+            "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+            "generation": "ID3"
+        },
+        {
+            "name": "Kaela Kovalskia",
+            "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+            "generation": "ID3"
+        },
+        {
+            "name": "Kobo Kanaeru",
+            "id": "UCjLEmnpCNeisMxy134KPwWw",
+            "generation": "ID3"
+        },
+        {
+            "name": "Calliope Mori",
+            "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+            "generation": "EN1"
+        },
+        {
+            "name": "Takanashi Kiara",
+            "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+            "generation": "EN1"
+        },
+        {
+            "name": "Ninomae Ina'nis",
+            "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+            "generation": "EN1"
+        },
+        {
+            "name": "Gawr Gura",
+            "id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+            "generation": "EN1"
+        },
+        {
+            "name": "Amelia Watson",
+            "id": "UCyl1z3jo3XHR1riLFKG5UAg",
+            "generation": "EN1"
+        },
+        {
+            "name": "IRyS",
+            "id": "UC8rcEBzJSleTkf_-agPM20g",
+            "generation": "Project: HOPE"
+        },
+        {
+            "name": "Ceres Fauna",
+            "id": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+            "generation": "EN2"
+        },
+        {
+            "name": "Ouro Kronii",
+            "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+            "generation": "EN2"
+        },
+        {
+            "name": "Nanashi Mumei",
+            "id": "UC3n5uGu18FoCy23ggWWp8tA",
+            "generation": "EN2"
+        },
+        {
+            "name": "Hakos Baelz",
+            "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+            "generation": "EN2"
+        }
+    ]
+}
