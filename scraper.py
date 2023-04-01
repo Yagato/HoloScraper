@@ -43,7 +43,7 @@ async def create_csv_reddit(flair):
     posts['created'] = pd.to_datetime(posts['created'])
     posts = posts.sort_values(by='created', ascending=False)
 
-    posts.to_csv(rf'csv/reddit_scrapper/{filename}', index=False, header=True, encoding='utf-8-sig')
+    posts.to_csv(rf'csv/reddit_scraper/{filename}', index=False, header=True, encoding='utf-8-sig')
 
 
 # TO-DO

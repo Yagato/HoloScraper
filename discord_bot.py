@@ -2,7 +2,7 @@
 # 1/4/2023
 
 import discord
-from scrapper import create_csv_reddit
+from scraper import create_csv_reddit
 from yt_data import create_csv_talents
 from discord.ext import commands
 from datetime import date
@@ -24,7 +24,7 @@ async def scrape(ctx, flair):
         day = date.today().strftime("%d-%m-%Y")
         filename = flair + "_issues_" + day + ".csv"
         await create_csv_reddit(flair)
-        with open(f'csv/reddit_scrapper/{filename}', 'rb') as f:
+        with open(f'csv/reddit_scraper/{filename}', 'rb') as f:
             csv = discord.File(f)
             await ctx.reply(file=csv)
     else:
@@ -39,6 +39,7 @@ async def get_subs(ctx):
     with open(f'csv/yt_data/{filename}', 'rb') as file:
         csv = discord.File(file)
         await ctx.reply(file=csv)
+        
 
 @bot.command()
 async def quit(ctx):

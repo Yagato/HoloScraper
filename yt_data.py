@@ -116,6 +116,3 @@ def create_csv_talents(filename, day):
     dataframe.to_csv(rf'csv/yt_data/{filename}', index=False, header=True, encoding='utf-8-sig')
 
     print(f"CSV created in csv/yt-data/{filename}")
-
-
-#create_csv_talents()
