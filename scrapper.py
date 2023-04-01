@@ -3,7 +3,6 @@
 
 import datetime
 import pandas as pd
-import praw
 import os
 from dotenv import load_dotenv
 import asyncpraw

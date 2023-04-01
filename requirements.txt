@@ -2,5 +2,4 @@ asyncpraw==7.7.0
 discord.py==2.2.2
 google_api_python_client==2.83.0
 pandas==1.4.2
-praw==7.6.0
 python-dotenv==1.0.0
